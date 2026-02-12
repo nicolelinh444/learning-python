@@ -1,9 +1,3 @@
-# --------------------------------------
-# Name: Nicole Ormond
-# Date: 02/12/2026
-# Chapter 2: Exercise 1, Part C
-# --------------------------------------
-
 # display square, cube, and fourth of 6, only use ** for fourth
 
 # declare variable to store number

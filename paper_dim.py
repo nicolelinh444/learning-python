@@ -1,9 +1,3 @@
-# --------------------------------------
-# Name: Nicole Ormond
-# Date: 02/12/2026
-# Chapter 2: Exercise 1, Part B
-# --------------------------------------
-
 # display perimeter of a letter-size paper
 # display the length of it's diagonal
 
