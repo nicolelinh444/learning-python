@@ -6,8 +6,8 @@
   #- The total bill amount is $200
   #- Do not use magic numbers in the formula. Save all the values in variables first.
 
-totalBill = 200.0
-tip = totalBill * 0.15
+totalBill = 300.0
+tip = totalBill * 0.25
 partySize = 4
 
 amountPaid = (totalBill + tip) / 4
